@@ -2,6 +2,11 @@
 
 This is a React-based quiz application that allows users to answer multiple-choice questions, receive instant feedback, and track their scores.
 
+## Preview
+Live  - https://quiz-app-nine-blush-47.vercel.app/
+
+https://github.com/user-attachments/assets/608606a6-acf1-4185-9ee2-3134bf8cd254
+
 ## Features
 - Displays a series of multiple-choice questions.
 - Allows users to navigate between questions.
